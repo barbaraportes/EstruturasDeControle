@@ -1,4 +1,7 @@
-# Curso C# Essencial: Estruturas de Controle do Professor Macoratti (Udemy).
+# Curso C# Essencial 
+# Seção: Classes e Métodos
+# Professor Macoratti (Udemy).
+
 - IF
 - IF-ELSE
 - IF-ELSE IF
