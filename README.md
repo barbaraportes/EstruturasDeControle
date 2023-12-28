@@ -1,5 +1,5 @@
 # Curso C# Essencial 
-# Seção: Classes e Métodos
+# Seção: Estruturas de Controle
 # Professor Macoratti (Udemy).
 
 - IF
